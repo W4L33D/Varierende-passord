@@ -1,2 +1,2 @@
 # Varierende-passord
-Passord som endres basert på tiden.
+Tidsvariende passord for autentisering.
